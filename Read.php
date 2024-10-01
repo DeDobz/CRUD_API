@@ -1,5 +1,6 @@
 // Read.php
 <?php
+echo "test perubahan ke 3";
 header('Content-Type: application/json');
 include 'db.php';
 
