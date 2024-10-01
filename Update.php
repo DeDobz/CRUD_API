@@ -1,6 +1,5 @@
 // update.php
 <?php
-echo "test";
 header('Content-Type: application/json');
 include 'db.php';
 
